@@ -9,6 +9,8 @@
 * [Bootstrap](http://getbootstrap.com) - UI Components
 * [NgBootstrap](https://ng-bootstrap.github.io/) - Angular specific widgets
 * [FontAwesome](https://fontawesome.com/) - Icons
+* [Docker](https://www.docker.com/) - Containerized Apps
+* [Docker Compose](https://docs.docker.com/compose/) -  Running multi-container Docker applications
 * [Spring](https://spring.io/) - Spring Boot resource and authorization server
 * [Hibernate](http://hibernate.org/) - Object-relational Mapping
 * [OAuth2](https://oauth.net/2/) - OAuth2 Authorization
@@ -17,14 +19,5 @@
 * [MySQL](https://www.mysql.com/) - MySQL Database
 * [Connector/J](https://dev.mysql.com/downloads/connector/j/5.1.html) - Connecting to MySQL Database Server
 * [Maven](https://maven.apache.org/) - Dependency Management
-* [Docker](https://www.docker.com/) - Containerized Apps
-* [Docker Compose](https://docs.docker.com/compose/) -  Running multi-container Docker applications
 
-
-
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/antkaynak/Keyist-Ecommerce/blob/master/LICENSE) for details.
-
-# Questions
-If you have any questions mail me -  antkaynak1@gmail.com
 
